@@ -1,8 +1,12 @@
 package main
 
 import (
-	"fmt";
-	// "strings"
+	"fmt"
+	"demo-app/hello"
+	"demo-app/user"
+
+	
+	"strings"
 )
 
 func main() {
@@ -156,6 +160,11 @@ func main() {
 	// convert to lowercase
 	// text2 = strings.ToLower(text2)
 	// fmt.Println(text2)
+
+	// package
+	// hello.Greet()
+	// user.GetAllUser()
+
 
 
 
